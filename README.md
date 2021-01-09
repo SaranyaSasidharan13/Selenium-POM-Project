@@ -17,7 +17,7 @@ Selenium WebDriver + Maven + POM + Extent report + Java + Data driven
 5. Import project
 5. Run Testng.xml(contains single test) or AllTCTestNG.xml(contains all tests).
 
-<b>Reports and Screenshots</b>/
+<b>Reports and Screenshots</b>
 
 1. Expand report folder. You will find latest extent report.
 2. Click on extentReport.html and open with web browser.
